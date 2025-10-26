@@ -3,8 +3,8 @@
   <img src="https://github.com/thesarinjaizz09/thesarinjaizz09/blob/05ad905ce4826c9858461caf2e3910859a25545b/banner.png" alt="Sarin Jaiswal Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFA6;">Sarin Jaiswal</span></h1>
-<h3 align="center">Founder at AlphaFusion Corporation | AI Engineer | Full-Stack & Cybersecurity Architect</h3>
+<h2 align="center">👋 Hey, I'm <span style="color:#00BFA6;">Sarin Jaiswal</span></h2>
+<h5 align="center">Founder at AlphaFusion Corporation | AI Engineer | Full-Stack & Cybersecurity Architect</h5>
 
 ---
 
@@ -38,13 +38,13 @@ Here are some of my recent notable projects (see more on [my GitHub profile](htt
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | **WarHawk-AI** – autonomous AI for drones (military/civil/rescue) :contentReference[oaicite:2]{index=2} | AI & robotics integration for drone systems | Python, ML, Computer Vision |
-| **TradeShark** – AI-driven trading platform (stocks & crypto) | Forecasting + autonomous bot execution | Python, Prophet, XGBoost, Trading APIs |
-| **SentinelMesh v2.0** – Zero-Trust communications and cyber-infrastructure | Fully custom architecture for defence & fraud prevention | Node.js, MongoDB, Private Blockchain, AI Monitoring |
+| **Alphafusion Finance** – AI-driven trading platform (stocks & crypto) | Forecasting + autonomous bot execution | Python, Prophet, XGBoost, Trading APIs |
+| **Eclipse** – Smart traffic mangement system | Fully custom architecture for traffic monitoring and manangement | Node.js, MongoDB, AI Monitoring |
 
 ---
 
 ### 🏆 Achievements & Highlights  
-- Founded AlphaFusion Corporation (formerly Yggdrasil Systems) to spearhead next-gen AI & cybersecurity solutions.  
+- Founded AlphaFusion Corporation to spearhead next-gen AI & cybersecurity solutions.  
 - Architected and implemented large-scale systems across fintech, defense, cloud – emphasising “Innovation • Precision • Intelligence”.  
 - Developed multiple AI/ML systems and secured environments combining industry-grade frameworks with academic rigor.
 
@@ -52,8 +52,8 @@ Here are some of my recent notable projects (see more on [my GitHub profile](htt
 
 ### 📫 Get in Touch  
 <p align="center">
-  <a href="mailto:sarinjaiswal@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sarin-jaiswal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:jazzsarin28@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sarin-jaiswal-b2810332b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/thesarinjaizz09"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
