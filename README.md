@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <p align="center">
-  <img src="https://ibb.co/gLQ46mKY" alt="Sarin Jaiswal Banner" width="100%" />
+  <img src="https://github.com/thesarinjaizz09/thesarinjaizz09/blob/05ad905ce4826c9858461caf2e3910859a25545b/banner.png" alt="Sarin Jaiswal Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFA6;">Sarin Jaiswal</span></h1>
