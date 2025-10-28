@@ -62,7 +62,7 @@ Here are some of my recent notable projects (see more on [my GitHub profile](htt
 ### 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thesarinjaizz09&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thesarinjaizz09&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=thesarinjaizz09&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/> -->
 </p>
 
 ---
