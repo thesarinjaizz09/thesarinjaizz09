@@ -56,14 +56,11 @@ Here are some of my recent notable projects (see more on [my GitHub profile](htt
   <a href="https://www.linkedin.com/in/sarin-jaiswal-b2810332b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/thesarinjaizz09"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thesarinjaizz09&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  
+<!-- <p align="center"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=thesarinjaizz09&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/> -->
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=thesarinjaizz09&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/> -->
-</p>
+<!-- </p> -->
 
 ---
 
